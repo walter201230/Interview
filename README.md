@@ -79,3 +79,18 @@
 * [CSDN](http://blog.csdn.net/two_water/article/details/54627547)
 
 程序地址：[Catalan](https://github.com/TwoWater/Interview/blob/master/Interview/src/com/liangdianshui/Catalan.java)
+
+
+# 2016腾讯软件开发面试题(不定项选择题【1-12】) #
+
+博客详解：
+
+* [个人博客](http://twowater.com.cn/2017/03/13/2016%E8%85%BE%E8%AE%AF%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98(%E4%B8%8D%E5%AE%9A%E9%A1%B9%E9%80%89%E6%8B%A9%E9%A2%98-1-12-)/)
+* [简书](http://www.jianshu.com/p/6fca31e1017d)
+* [CSDN](http://blog.csdn.net/two_water/article/details/54755709)
+
+# 2016 腾讯软件开发面试题（不定项选择题【13-25】） #
+
+* [个人博客](http://twowater.com.cn/2017/03/13/2016%E8%85%BE%E8%AE%AF%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98(%E4%B8%8D%E5%AE%9A%E9%A1%B9%E9%80%89%E6%8B%A9%E9%A2%98-13-25-)/)
+* [简书](http://www.jianshu.com/p/8baa5f7fa8e2)
+* [CSDN](http://blog.csdn.net/two_water/article/details/55071376)
